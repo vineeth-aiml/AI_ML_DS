@@ -1,0 +1,8 @@
+Employee_ID,Name,Department,Age,Salary,Experience,City
+101, Vineeth ,AI,25.0,70000.0,4,Hyderabad
+102,Harshitha,HR,28.0,50000.0,5,Bangalore
+103,Priya,AI,24.0,65000.0,3,Hyderabad
+104,Arjun,Finance,30.0,60000.0,6,Chennai
+105,Sneha,HR,,52000.0,2,Bangalore
+106,Kiran,AI,27.0,,4,Hyderabad
+106,Kiran,AI,27.0,,4,Hyderabad

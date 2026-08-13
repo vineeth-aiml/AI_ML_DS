@@ -1,0 +1,7 @@
+Employee_ID,Name,Department,Age,Salary,Experience,City,Country,Annual_Salary,Bonus,Experience_Level,Level
+101, Vineeth ,AI,25.0,70000.0,4,Hyderabad,India,840000.0,7000.0,Junior,Intermediate
+102,Harshitha,HR,28.0,50000.0,5,Bangalore,India,600000.0,5000.0,Senior,Intermediate
+103,Priya,AI,24.0,65000.0,3,Hyderabad,India,780000.0,6500.0,Junior,Intermediate
+104,Arjun,Finance,30.0,60000.0,6,Chennai,India,720000.0,6000.0,Senior,Senior
+105,Sneha,HR,27.0,52000.0,2,Bangalore,India,624000.0,5200.0,Junior,Beginner
+106,Kiran,AI,27.0,67500.0,4,Hyderabad,India,810000.0,6750.0,Junior,Intermediate
